@@ -15,5 +15,6 @@
         "bin/wkhtmltopdf-i386"
     ],
     "require": {
+        "haithemkdous/wkhtmltopdf-i386": "master"
     }
 }
