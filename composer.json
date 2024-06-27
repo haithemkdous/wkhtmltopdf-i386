@@ -1,5 +1,5 @@
 {
-    "name": "h4cc/wkhtmltopdf-i386",
+    "name": "haithemkdous/wkhtmltopdf-i386",
     "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary for i386 systems.",
     "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
     "license": "LGPL Version 3",
@@ -15,6 +15,5 @@
         "bin/wkhtmltopdf-i386"
     ],
     "require": {
-        "haithemkdous/wkhtmltopdf-i386": "master"
     }
 }
