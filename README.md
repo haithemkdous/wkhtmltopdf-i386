@@ -18,7 +18,7 @@ This package can be found on [Packagist](http://packagist.org) and installed wit
 
 Require the package for _i386_ with:
 
-    php composer.phar require h4cc/wkhtmltopdf-i386 "0.12.5"
+    php composer.phar require haithemkdous/wkhtmltopdf-i386 "0.12.5"
 
 And for _amd64_ with:
 
@@ -26,7 +26,7 @@ And for _amd64_ with:
 
 The binary will then be located at:
 
-    vendor/h4cc/wkhtmltopdf-i386/bin/wkhtmltopdf-i386
+    vendor/haithemkdous/wkhtmltopdf-i386/bin/wkhtmltopdf-i386
 
 Also a symlink will be created in your configured bin/ folder, for example:
 
